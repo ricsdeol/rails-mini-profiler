@@ -9,7 +9,7 @@ gemspec
 group :development do
   gem 'annotate', '~> 3.1'
   gem 'guard-livereload', '~> 2.5', require: false
-  gem 'puma', '~> 5.2'
+  gem 'puma', '~> 5.6'
 end
 
 group :test, :development do
